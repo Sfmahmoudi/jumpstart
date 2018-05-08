@@ -3,3 +3,40 @@
   font-family: 'Monoton', cursive;
   /* font-weight: 400, 600, 700; */
 }
+html {
+  font-size: 14px;
+  font-family: "Open Sans";
+}
+
+.navbar-default {
+  background-color: white;
+}
+
+
+/* jumbotron section */
+.carousel.jumbotron-bike {
+  background-image: url("../images/jumbotron-bike.jpg");
+}
+.jumbotron-beer {
+  background-image: url("../images/jumbotron-beer.jpg");
+}
+.jumbotron-flowers {
+  background-image: url("../images/jumbotron-flowers.jpg");
+}
+.jumbotron-duffel {
+  background-image: url("../images/jumbotron-duffel.jpg");
+}
+
+/* feature section */
+.display-4 {
+  margin-top: 11.85rem;
+}
+
+
+
+/* footer section */
+footer {
+  background-color: #f3f3f3;
+  text-align: center;
+  padding: 5.2rem;
+}
